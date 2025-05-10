@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stickman-tech14
+- 👋 Hi, I’m @Zytrix-Official 
 - 👀 I’m interested in programming & tech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
