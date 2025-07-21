@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamza
+- 👋 Hi, I’m Zytrix
 - 👀 I’m interested in programming & tech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
